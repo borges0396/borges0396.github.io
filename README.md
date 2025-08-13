@@ -53,11 +53,6 @@ Atuar como **Líder Técnico ou de Projetos** em empresas de **Tecnologia Educac
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Emanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=borges0396&show_icons=true&theme=default)
-
----
-
 ## 📫 Contato
 📧 [borges.0396@email.com](mailto:borges.0396@email.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/emanuelgescolar)  
